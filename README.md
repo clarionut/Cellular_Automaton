@@ -2,7 +2,7 @@
 
 This repository contains details of an Arduino-based emulation of the [NonlinearCircuits Cellular Automata](https://www.nonlinearcircuits.com/modules/p/cellular-automata) synthesiser module but with additional functionality.
 
-<img title="Cellular Automaton" width="200px" src="https://github.com/user-attachments/assets/e6e95f51-a603-4c6c-a3c2-eee641102247">
+<img title="Cellular Automaton" width="250px" src="https://github.com/user-attachments/assets/e6e95f51-a603-4c6c-a3c2-eee641102247">
 
 The original is a tour-de-force of 4xxx CMOS circuit design, but a microcontroller-based implementation is much simpler to design and assemble, probably cheaper and, most importantly, offers the possibility for interesting additional functionality. In particular, this implemetation allows a probabilistic approach to the cellular automaton rules and can run using its own internal clock.
 
